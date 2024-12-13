@@ -11,7 +11,7 @@ A mobile application to assist users in identifying skin diseases using machine 
   - [Cloud Computing](#cloud-computing)
   - [Mobile Development](#mobile-development)
 - [Features](#features)
-- [How to Contribute](#how-to-contribute)
+- [Usage](#usage)
 
 ---
 
