@@ -80,4 +80,11 @@ DermaOne utilizes machine learning for image-based skin disease detection and cl
 </p>
 ---
 
+<!--
+## Contact
+
+[Muhammad Syauqi Jazuli](https://www.linkedin.com/in/muhammad-syauqi-jazuli/) -  syauqialjm93@gmail.com 
+
+---
+-->
 Built with passion by the DermaOne team.
