@@ -1,4 +1,4 @@
-# Skin Disease Detection App
+# Mobile Dev Documentation
 
 A mobile application for detecting skin diseases using machine learning. The app also provides health-related news, stores prediction history, and offers user-friendly features like login, signup, and profile management.
 
