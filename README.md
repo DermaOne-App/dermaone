@@ -1,4 +1,4 @@
-# DermaOne APP
+![DermaOne Logo](logo/logodermaone.png)
 
 A mobile application to assist users in identifying skin diseases using machine learning and cloud computing. Built as part of the Bangkit Academy program (Google, Tokopedia, Gojek, Traveloka).
 
@@ -54,14 +54,30 @@ DermaOne utilizes machine learning for image-based skin disease detection and cl
 
 ---
 
-## How to Contribute
-We welcome contributions! To get started:
-1. Fork the repository.
-2. Create a feature branch.
-3. Submit a pull request with clear descriptions.
+## Usage
 
-For any questions, please raise an issue in the repository.
-
+<p align="left"> 
+    <img src="https://raw.githubusercontent.com/DermaOne-App/dermaone/refs/heads/main/demo-app/demo1.jpg"
+        alt="Dashboard"    
+        style="margin-right: 10px;"    
+        width="150" />
+    <img src="https://raw.githubusercontent.com/DermaOne-App/dermaone/refs/heads/main/demo-app/demo2.jpg"
+        alt="Select Image"    
+        style="margin-right: 10px;"    
+        width="150" />
+    <img src="https://raw.githubusercontent.com/DermaOne-App/dermaone/refs/heads/main/demo-app/demo3.jpg"
+        alt="Diagnose"    
+        style="margin-right: 10px;"    
+        width="150" />
+    <img src="https://raw.githubusercontent.com/DermaOne-App/dermaone/refs/heads/main/demo-app/demo4.jpg"
+        alt="diagnostic results"    
+        style="margin-right: 10px;"    
+        width="150" />
+    <img src="https://raw.githubusercontent.com/DermaOne-App/dermaone/refs/heads/main/demo-app/demo5.jpg"
+        alt="feature history"    
+        style="margin-right: 10px;"    
+        width="150" />
+</p>
 ---
 
 Built with passion by the DermaOne team.
