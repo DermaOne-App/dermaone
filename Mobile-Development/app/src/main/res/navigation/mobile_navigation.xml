@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_Dashboard">
+
+    <fragment
+        android:id="@+id/navigation_Dashboard"
+        android:name="com.example.dermaone.ui.Dashboard"
+        android:label="@string/Dashboard"
+        tools:layout="@layout/fragment_dashboard">
+        <action
+            android:id="@+id/action_dashboard_to_information"
+            app:destination="@id/navigation_Information" />
+        <action
+            android:id="@+id/action_dashboard_to_history"
+            app:destination="@id/navigation_history" />
+        <action
+            android:id="@+id/action_dashboard_to_profile"
+            app:destination="@id/navigation_Profile" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_Information"
+        android:name="com.example.dermaone.ui.Information"
+        android:label="@string/information"
+        tools:layout="@layout/fragment_information">
+        <action
+            android:id="@+id/action_information_to_dashboard"
+            app:destination="@id/navigation_Dashboard" />
+        <action
+            android:id="@+id/action_information_to_history"
+            app:destination="@id/navigation_history" />
+        <action
+            android:id="@+id/action_information_to_profile"
+            app:destination="@id/navigation_Profile" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_history"
+        android:name="com.example.dermaone.ui.History"
+        android:label="@string/history"
+        tools:layout="@layout/fragment_history">
+        <action
+            android:id="@+id/action_history_to_dashboard"
+            app:destination="@id/navigation_Dashboard" />
+        <action
+            android:id="@+id/action_history_to_information"
+            app:destination="@id/navigation_Information" />
+        <action
+            android:id="@+id/action_history_to_profile"
+            app:destination="@id/navigation_Profile" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_Profile"
+        android:name="com.example.dermaone.ui.Profile"
+        android:label="@string/profile"
+        tools:layout="@layout/fragment_profile">
+        <action
+            android:id="@+id/action_profile_to_dashboard"
+            app:destination="@id/navigation_Dashboard" />
+        <action
+            android:id="@+id/action_profile_to_information"
+            app:destination="@id/navigation_Information" />
+        <action
+            android:id="@+id/action_profile_to_history"
+            app:destination="@id/navigation_history" />
+    </fragment>
+</navigation>

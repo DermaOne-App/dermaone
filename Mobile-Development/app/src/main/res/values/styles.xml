@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema aplikasi -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowEnterTransition">@android:transition/move</item>
+        <item name="android:windowExitTransition">@android:transition/move</item>
+        <!-- Warna utama aplikasi -->
+        <item name="colorPrimary">@color/myprimary</item>
+        <item name="colorPrimaryVariant">#DC1818</item>
+        <item name="colorOnPrimary">@color/teal_700</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Ubah warna background Bottom Navigation -->
+        <item name="android:navigationBarColor">@color/black</item>
+    </style>
+</resources>
+

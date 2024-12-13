@@ -1,0 +1,424 @@
+<resources>
+    <string name="app_name">DermaOne</string>
+    <string name="Dashboard">Dashboard</string>
+    <string name="information">Information Health</string>
+    <string name="history">History</string>
+    <string name="profile">Profile</string>
+    <string name="dashboard_page">Dashboard</string>
+    <string name="information_page">Information</string>
+    <string name="history_page">History</string>
+    <string name="profile_page">Profile</string>
+    <string name="event_image_desc">Event Image</string>
+    <string name="gallery">Gallery</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login_first">Please Login First</string>
+    <string name="email_address">Email Address</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="login">Login</string>
+    <string name="or_login_with">Or Login With</string>
+    <string name="google">Continue with Google</string>
+    <string name="dont_have_account">Dont have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create_account">Create Account</string>
+    <string name="fill_in">Fill in your details to sign up</string>
+    <string name="full_name">Full Name</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="reset">Enter your email to reset your password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="remember_password">Remember your password?</string>
+    <string name="continue_with_google">Continue With Google</string>
+    <string name="google_logo">Google Logo</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="email_hint">Enter Your Email!</string>
+    <string name="email_error">Invalid Email Format</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="password_error">Password must be at least 8 characters</string>
+    <string name="carousel_image">Carousel\n</string>
+    <string name="prediction_image">prediction Image\n</string>
+    <string name="history_image">ImageHistory\n</string>
+    <string name="profile_name">Abe</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="arrow_down">Arrow</string>
+    <string name="edit_setting">Settings</string>
+    <string name="edit_support">Support</string>
+    <string name="about_app">About App</string>
+    <string name="log_out">Log Out</string>
+    <string name="version_profile">Version 0.0.1</string>
+    <string name="information_health">Information Health</string>
+    <string name="history_health">Health History</string>
+    <string name="not_yet_history">Dont Have History</string>
+    <string name="disease_name">Disease Name</string>
+    <string name="confidence">Confidence</string>
+    <string name="description">Description</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="open_gallery">Open Gallery</string>
+    <string name="predict">Predict</string>
+    <string name="change_language">Change Language</string>
+    <string name="image_placeholder">image\n</string>
+    <string name="list_diseases">List Diseases\n</string>
+    //Cellulitis
+
+    <string name="penyebab_cellulitis">What Can Cause Cellulitis?\n
+\n1. Cuts or tears in the skin.\n
+\n2. Infection after surgery.\n
+\n3. Certain skin conditions, like eczema or psoriasis.\n
+\n4. Foreign objects entering the skin.\n
+\n5. Bone infection beneath the skin.\n
+</string>
+
+    <string name="gejala_cellulitis">Symptoms to Watch Out For\n
+\n1. Skin appears red, swollen, and feels warm to the touch.\n
+\n2. Blisters, pus, or fluid discharge on the skin.\n
+\n3. Pain in the affected area.\n
+\n4. Fever accompanied by chills.\n
+\nIf you experience these symptoms, dont delay consulting a doctor. Early treatment can prevent complications and aid faster recovery!\n
+\nKeep your skin clean and healthy to prevent cellulitis!\n
+</string>
+
+    //Impetigo
+
+    <string name="penyebab_impetigo">What Can Trigger Impetigo?\n
+\n1. Open wounds: Allowing bacteria to enter the body.\n
+\n2. Skin disorders: Conditions like atopic eczema or scabies can trigger it.\n
+\n3. Contact with infected individuals: Through sports like wrestling or football.\n
+\n4. Crowded environments: Living in densely populated areas increases risk.\n
+\n5. Certain health conditions: Diabetes or weakened immunity, such as in people with HIV/AIDS.\n
+</string>
+
+    <string name="gejala_impetigo">Symptoms of Impetigo to Watch For\n
+\nSymptoms of impetigo usually appear 4–10 days after bacterial exposure. Each type of impetigo has distinct symptoms, but common signs include:\n
+\n1. Small sores filled with fluid or pus.\n
+\n2. Yellowish crust resembling honey on the skin.\n
+\n3. Redness or swelling around the sores.\n
+\nIf you or a loved one experience these symptoms, see a doctor immediately to receive proper treatment. Lets protect your skin and those around you!\n
+</string>
+
+    //Athlete Foot
+
+    <string name="apa_itu_athlete_foot">What Is Athletes Foot?\n
+\nAthletes Foot, also known as Tinea Pedis, is a fungal infection that commonly affects the skin on the feet. Though it often occurs in athletes due to shared facilities like locker rooms or swimming pools, anyone can get it.\n
+</string>
+
+    <string name="penyebab_athlete_foot">What Are the Risk Factors?\n
+\nYoure more prone to athletes foot if:\n
+\n1. Walking barefoot in public places, such as bathrooms or swimming pools.\n
+\n2. Having sweaty feet.\n
+\n3. Having cuts on the skin or toenails that allow fungi to enter.\n
+\n4. Sharing personal items like shoes, socks, or towels with others.\n
+\n5. Wearing tight shoes or damp socks.\n
+\n6. Rarely changing socks.\n
+</string>
+
+    <string name="gejala_athlete_foot">Symptoms to Watch For:\n
+\nThis infection can cause varying symptoms depending on its severity, such as:\n
+\n1. Intense itching, especially between the toes.\n
+\n2. Red, dry, or peeling skin.\n
+\n3. Blisters, crusts, or small sores in the infected area.\n
+\n4. Unpleasant odor from the infection.\n
+\nIf left untreated, the infection can spread to nails or other parts of the body.\n
+\nIf you experience symptoms of athletes foot, consult a doctor promptly for appropriate treatment. Early intervention can prevent spread and complications! 😊\n
+</string>
+
+    //Nail Fungus
+
+    <string name="apa_itu_jamur_kuku">What Is Nail Fungus?\n
+Nail fungus, medically known as onychomycosis, is a fungal infection of the nails, primarily caused by dermatophytes. It often affects toenails but can also occur in fingernails.\n
+</string>
+
+    <string name="penyebab_jamur_kuku">Risk Factors That Increase Susceptibility\n
+\nSeveral conditions and habits can increase the risk of nail fungus, including:\n
+\n1. Advanced age: Brittle and dry nails in older adults make it easier for fungi to enter through cracks.\n
+\n2. Poor blood circulation: Such as in peripheral artery disease.\n
+\n3. Weakened immune system: For example, in people with HIV/AIDS or diabetes.\n
+\n4. Skin conditions: Psoriasis of the nails or athletes foot can trigger infections.\n
+\n5. Poor hygiene: Walking barefoot in damp areas (public bathrooms or swimming pools).\n
+\n6. Occupational or hobby exposure: Frequent water contact.\n
+\n7. Excessive sweating: Providing an ideal environment for fungal growth.\n
+</string>
+
+    <string name="gejala_jamur_kuku">Symptoms of Nail Fungus to Watch For\n
+\nNail fungal infections often present with these symptoms:\n
+\n1. Thickened, rough nails.\n
+\n2. White spots or discoloration (yellowish-brown, black, or white) on the nails.\n
+\n3. Brittle nails that break or separate from the nail bed.\n
+\n4. Unpleasant odor from the nails.\n
+\nIf you notice these symptoms, consult a doctor immediately. Early treatment can make recovery more effective and prevent further complications! 😊\n
+</string>
+
+    //Ringworm
+
+    <string name="apa_itu_kurap">What Is Ringworm?\n
+\nRingworm, medically called tinea corporis, is a fungal skin infection. Its also known as ringworm because of its ring-like appearance, with raised edges. Ringworm can appear on various parts of the body, including the scalp, hands, feet, face, and groin.\n
+</string>
+
+    <string name="perbedaan_kudis_kurap">Ringworm vs. Scabies: Whats the Difference?\n
+\nThough often confused, ringworm and scabies have different causes:\n
+\n1. Ringworm is caused by fungal infections like Epidermophyton, Microsporum, or Trichophyton.\n
+\n2. Scabies is caused by small mites that burrow under the skin.\n
+</string>
+
+    <string name="penyebab_kurap">Causes and Transmission of Ringworm\n
+\nRingworm spreads through:\n
+\n1. Direct contact with infected individuals or animals.\n
+\n2. Indirect contact by touching contaminated objects like clothing, towels, or surfaces.\n
+</string>
+
+    <string name="gejala_kurap">Symptoms of Ringworm to Look For:\n
+\n1. Red, scaly, ring-shaped rash that feels itchy.\n
+\n2. Small fluid-filled blisters around the rash’s edges.\n
+\n3. If it affects nails: Thickened, brittle, and opaque white nails.\n
+\n4. The rash can spread if untreated.\n
+</string>
+
+    <string name="tips_pencegahan_kurap">Tips to Prevent Ringworm\n
+\n1. Avoid sharing personal items like towels or clothing.\n
+\n2. Maintain skin hygiene and keep sweaty areas dry.\n
+\n3. Wear footwear in damp public places like bathrooms or swimming pools.\n
+\n4. Avoid contact with animals that show signs of ringworm.\n
+\n5. If you have ringworm symptoms, consult a doctor for proper treatment. Early care can stop the spread and speed up recovery! 🌟\n
+</string>
+
+    //Cutaneous Larva Migrans (CLM)
+
+    <string name="Apa_Itu_Cutaneous_Larva_Migrans">What Is Cutaneous Larva Migrans?\n
+\nCutaneous Larva Migrans (CLM) is a skin infection caused by hookworm larvae. It’s characterized by red, snake-like tracks under the skin. These larvae come from the feces of infected animals, like cats, dogs, sheep, or horses, deposited in soil or sand.\n
+</string>
+
+    <string name="penyebab_CLM">Causes and Risk Factors of CLM\n
+\nThis infection occurs when human skin directly contacts contaminated soil or sand with hookworm larvae.\n
+\nRisk factors include:\n
+\n1. Children playing in soil or sand.\n
+\n2. Outdoor workers like farmers, gardeners, or construction workers.\n
+\n3. Pest control workers, especially in farming areas, with high exposure to larvae.\n
+</string>
+
+    <string name="gejala_CLM">Symptoms of CLM to Watch For\n
+\nSymptoms usually appear days after contact with larvae, including:\n
+\n1. Intense itching in affected skin areas.\n
+\n2. Red rash forming lines or circles as larvae move under the skin.\n
+\n3. Small bumps or blisters in the infected area.\n
+\n4. Burning sensations and swelling on infected skin.\n
+\n5. The feeling of something moving under the skin.\n
+\nIf you experience CLM symptoms, consult a doctor immediately for proper treatment. Early care is crucial to prevent worsening infection! 😊\n
+</string>
+
+    //Chickenpox
+
+    <string name="apa_itu_cacar_air">What Is Chickenpox?\n
+\nChickenpox, medically known as Varicella, is a skin condition caused by the Varicella zoster virus (VZV). It is characterized by fluid-filled blisters across the body, often causing intense itching. While common in children, adults with no prior exposure can also get chickenpox, especially with weak immunity.\n
+</string>
+
+    <string name="penyebab_cacar_air">Causes of Chickenpox\n
+\nThe primary cause of chickenpox is the Varicella zoster virus (VZV). It spreads through:\n
+\n1. Direct contact with fluid-filled blisters of an infected person.\n
+\n2. Inhalation of virus-contaminated droplets from coughing or sneezing.\n
+</string>
+
+    <string name="Gejala_Cacar_Air">Symptoms of Chickenpox\n
+\nEarly symptoms of chickenpox typically appear 1–2 days before the itchy rash becomes visible, and may include:\n
+\n1. Dizziness or headache.\n
+\n2. Fever.\n
+\n3. Loss of appetite.\n
+\n4. Muscle aches.\n
+\n5. Nausea and excessive fatigue.\n
+\nAfter these initial symptoms, an itchy rash will appear and progress through three stages:\n
+\n1. Pink bumps emerge across the body.\n
+\n2. Fluid-filled blisters form on the red bumps.\n
+\n3. Blisters burst and dry out, forming scabs as the body heals.\n
+\nHowever, these stages may vary in individuals depending on their immune system.\n
+\nIf you or someone close to you shows symptoms of chickenpox, consult a doctor immediately to get proper treatment. With appropriate care, chickenpox symptoms can be managed more easily! 😊\n
+</string>
+
+    <string name="apa_itu_herpes_zoster">What Is Shingles (Herpes Zoster)?\n
+\nHerpes Zoster, also known as Shingles, is a skin condition that causes a rash and fluid-filled blisters on one side of the body, accompanied by pain. While it can affect anyone, it is more common in people over 50 years old or those with weakened immune systems.\n
+</string>
+
+    <string name="penyebab_herpes_zoster">Causes of Shingles\n
+\nShingles is caused by the Varicella Zoster Virus (VZV), the same virus that causes chickenpox. If someone has had chickenpox before, the virus remains dormant in the body, particularly around the spinal cord or at the base of the skull. When the body becomes fatigued or the immune system weakens, the virus can "reactivate" and cause shingles.\n
+\nFactors that increase the risk of shingles include:\n
+\n1. Weak immune system, such as in individuals with HIV/AIDS or those undergoing immunosuppressive treatment.\n
+\n2. Age over 50, as the immune system tends to weaken with age.\n
+\n3. Stress, which can reduce the body ability to fight infections.\n
+</string>
+
+    <string name="gejala_herpes_zoster">Symptoms of Shingles\n
+\nShingles symptoms often begin with pain or a burning sensation on one side of the body. A rash and fluid-filled blisters follow. Additional symptoms include:\n
+\n1. Red rash that develops into blisters or fluid-filled bumps.\n
+\n2. Swelling in the affected area of the skin.\n
+\n3. Burning, pain, or itching in the skin.\n
+\n4. Fever and fatigue.\n
+\n5. Headache if blisters appear on the head or face.\n
+\n6. Sensitivity to light, especially if blisters are near the eyes.\n
+\nIf you start experiencing symptoms of shingles, consult a doctor immediately to receive proper treatment. Dont worry! With the right care, the symptoms can be relieved, and complications can be prevented! 😊\n
+</string>
+
+    <string name="list_of_diseases_circle">list_of_diseases_circle\n</string>
+    <string name="list_virus">list_virus</string>
+
+
+    <!--LIST VIRUS-->
+
+    <!--1. BA - BACTERIA-->
+
+    <string name="penjelasan_BA_Bakteri">Skin Bacterial Infections: What They Are and Examples\n
+    \nSkin bacterial infections occur when bacteria manage to enter the skin. This can be caused by external factors, such as the environment, or bacteria that are already present on the skin. Usually, bacteria enter through hair follicles or after a skin wound.\n
+    \nBacteria like Staphylococcus and Streptococcus typically live on our skin without causing any problems. However, they can cause infections when given the "opportunity," such as when the skin is injured or the immune system is weakened.\n
+    \nThere are also external bacteria, such as Bacillus anthracis causing anthrax, or bacteria from ticks that cause Lyme disease, which also affects the skin.\n
+    </string>
+
+    <string name="jenis_infeksi_BA_Bakteri">Types of Infections: Local or Systemic\n
+    \nSkin bacterial infections are categorized into two types:\n
+    \n1. Local: Infection affects only a specific area of the skin, such as one part of the body.\n
+    \n2. Systemic: Infection spreads throughout the body, usually accompanied by symptoms like fever or weakness. This infection often starts in a small area and then spreads further.\n
+
+    \nTypes of Skin Bacterial Infections\n
+    \n1. Cellulitis:\n
+    An infection in the deeper layers of the skin, usually making the skin red, swollen, and warm to the touch.\n
+
+    \n2. Impetigo:\n
+    A common infection in children, marked by small sores filled with fluid or pus, which then form yellow crusts. This infection is highly contagious.\n
+
+    \n3. Hansen Disease (Leprosy):\n
+    A chronic infection that affects the skin, nerves, and other organs. This disease develops slowly and can cause permanent damage if not treated promptly.\n
+
+    \n4. Syphilis:\n
+    A bacterial infection typically transmitted through sexual contact. Symptoms may include sores on the skin or other parts of the body.\n
+
+    \nImportant Note\n
+    \nMaintaining skin hygiene and promptly treating small wounds can help prevent bacterial infections. By recognizing symptoms and understanding how they spread, you can protect yourself and others around you. 🌟\n
+
+    \nHow Can Infections Spread?\n
+    \nSome bacterial infections, such as impetigo, can spread from person to person through:\n
+    \n1. Direct contact with infected skin or wounds.\n
+    \n2. Body fluids like saliva or blood.\n
+    \n3. Contaminated food or water.\n
+    \n4. Contaminated surfaces like towels or clothing.\n
+    \nHowever, not all skin bacterial infections are contagious. For example, cellulitis typically doesnt spread from one person to another.
+    </string>
+
+    <!--2. FU - FUNGUS-->
+
+    <string name="penjelasan_FU_FUNGUS">Skin Fungal Infections: Explanation and Types\n
+    \nSkin infections caused by fungi usually develop in areas of the body that are moist and poorly ventilated, such as the feet, armpits, or skin folds like under the breasts or in the groin. Fungi thrive in warm and damp conditions, making these areas ideal for growth.\n
+    \nSometimes, a fungal infection can trigger an allergic reaction that causes symptoms in other areas of the body, even if they arent directly infected. For example, someone with athlete’s foot might develop a rash or itching on their hands, even without direct contact between the feet and hands.\n
+    </string>
+
+    <string name="jenis_infeksi_FU_FUNGUS">Types of Skin Fungal Infections\n
+    \nHere are some common types of skin fungal infections:\n
+    \n1. Athlete’s Foot\n
+        \n-Typically affects the area between the toes.\n
+        \n-Symptoms include cracked, scaly, itchy, and painful skin.\n
+        \n-This infection is often experienced by people who wear closed shoes for long periods, especially if their feet sweat easily.\n
+    \n2. Ringworm\n
+        \n-Characterized by a red ring-shaped rash with a clearer center.\n
+        \n-Ringworm can appear on any part of the body, including the scalp, hands, or other body areas.\n
+        \n-This infection is highly contagious and can spread through direct contact or using contaminated items like towels or combs.\n
+    \n3. Nail Fungus\n
+        \n-Usually affects toenails, but can also occur on fingernails.\n
+        \n-Signs include yellow or white discoloration, thickened, brittle, and easily broken nails.\n
+        \n-This infection is common in people who frequently expose their feet to water or wear wet shoes.\n
+
+    \nImportant Note\n
+        Fungi are microorganisms present around us, but infections can occur if our skin condition allows them to proliferate. Maintaining good hygiene, avoiding overly damp environments, and addressing early symptoms are the best ways to prevent and treat fungal skin infections. 😊\n
+    </string>
+
+    <!--3. PA - PARASITE-->
+
+    <string name="penjelasan_PA_PARASIT">PA - PARASITE\n
+    \nParasitic Skin Infections\n
+    \nParasitic skin infections occur when tiny organisms like mites or larvae reside on our skin. Though not usually dangerous, these infections can be itchy, uncomfortable, and quite bothersome. Let’s get to know the two most common types of parasitic skin infections:\n
+
+     \n1. Scabies\n
+        \nScabies is caused by a tiny mite called Sarcoptes scabiei. This mite likes to create “homes” under the skin, causing intense itching, especially at night.\n
+        \nCommon symptoms include:\n
+
+        \n-Severe itching, particularly in areas like between the fingers, wrists, armpits, or waist.\n
+
+        \n-Small bumps or tunnel-like lines on the skin.\n
+
+        \nTreatment usually involves creams or lotions prescribed by a doctor to eliminate the mites and their eggs.\n
+     \n2. Cutaneous Larva Migrans\n
+        \nThis infection is caused by hookworm larvae that mistakenly enter our skin. It usually happens when we walk barefoot on dirty soil or sand.\n
+
+        \nTypical symptoms include:\n
+
+        \n-A winding red line on the skin, resembling a worm trail.\n
+
+        \nIntense itching around the affected area.\n
+
+        \nWhile it typically resolves on its own, a doctor may prescribe medication to speed up healing and alleviate the itching.\n
+
+    </string>
+
+    <string name="jenis_infeksi_PA_PARASIT">Types of Parasites:\n
+     \n1. Protozoa\n
+    \n- Spread through direct skin contact or via mosquitoes, pets, or lice. Once they contact you, protozoa enter the bloodstream and spread to the lungs, intestines, heart, and pancreas.\n
+     \n2. Roundworms\n
+        \n- These parasites usually target the intestines, bloodstream, or tissues under the skin.\n
+        \n- Roundworms can only reproduce inside the body during their young stage.\n
+     \n3. Ectoparasites\n
+    \n- These parasites can survive on your skin for weeks or even months.\n
+
+    \nTo avoid these infections, always maintain good hygiene, wear shoes outside, and avoid contact with contaminated or infected environments. If you notice symptoms like those above, be sure to see a doctor quickly for faster recovery and comfort. 😊\n
+
+    </string>
+
+    <!--4. VI - VIRUS-->
+
+    <string name="penjelasan_VI_VIRUS">Viral Skin Infections\n
+    \nViral skin infections can cause itchy, bumpy skin and discomfort. Viruses enter our bodies and reproduce inside our cells, including skin cells. Some of these viruses are highly contagious and can affect other parts of the body as well. Viruses can enter through the air, direct contact with an infected person, or contaminated items. Once inside the body, they attach to cells and begin to replicate, causing symptoms like rashes, blisters, or pain. Let’s discuss two common viral skin infections!\n
+     \n1. Shingles (Herpes Zoster)\n
+     \nShingles is caused by the same virus that causes chickenpox. After recovering from chickenpox, this virus can "sleep" in the body and reactivate later as shingles.\n
+        \nSymptoms include:\n
+        \n-A rash that starts as red spots, then changes to small blisters filled with fluid.\n
+        \n-Pain or burning sensations in the area where the rash appears, sometimes before the rash itself.\n
+        \n-It typically appears on one side of the body, such as on the chest or back.\n
+
+        \nDoctors usually prescribe medication to reduce symptoms and speed up recovery.\n
+
+     \n2. Chickenpox\n
+        \nChickenpox is also caused by the same virus as shingles but is more common in children. This virus is very contagious and spreads through the air or direct contact with the rash.\n
+
+        \nSymptoms include:\n
+
+        \n-A rash that begins as red spots and then turns into blisters filled with fluid.\n
+        \n-Intense itching all over the body.\n
+        \n-Fever, headache, and weakness.\n
+
+        \nChickenpox usually resolves on its own, but medication can help relieve the itching and fever.\n
+        \nBoth of these infections are highly contagious, so be sure to maintain hygiene and visit a doctor if you experience symptoms like this. Also, don’t forget about vaccination, especially for chickenpox, to stay safer!\n
+
+    </string>
+
+    <string name="jenis_infeksi_VI_VIRUS">Types of Viral Parasites:\n
+    \n1. DNA Virus\n
+    \n- Chickenpox, shingles, smallpox, and more.\n
+    \n2. RNA Virus\n
+    \n- Like influenza and COVID-19.\n
+
+    \nImportant Note\n
+    \nViral skin infections can be prevented by avoiding exposure to infected people, staying away from contaminated environments, and practicing good hygiene. 🦠💪\n
+
+    </string>
+    <string name="menu">menu</string>
+    <string name="reason_icon">reason\n</string>
+    <string name="disease_icon">disease</string>
+
+
+</resources>

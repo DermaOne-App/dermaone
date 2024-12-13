@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/background_text" /> <!-- Background putih -->
+    <stroke
+        android:width="2dp"
+        android:color="@color/black" /> <!-- Border warna sesuai tema -->
+    <corners android:radius="0dp" /> <!-- Membuat tombol berbentuk lingkaran -->
+</shape>

@@ -1,0 +1,418 @@
+<resources>
+    <string name="app_name">DermaOne</string>
+    <string name="Dashboard">Beranda</string>
+    <string name="information">Informasi Kesehatan</string>
+    <string name="history">Riwayat</string>
+    <string name="profile">Profil</string>
+    <string name="dashboard_page">Beranda</string>
+    <string name="information_page">Informasi</string>
+    <string name="history_page">Riwayat</string>
+    <string name="profile_page">Profil</string>
+    <string name="event_image_desc">Gambar Acara</string>
+    <string name="gallery">Galeri</string>
+    <string name="title_activity_login">Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Kata Sandi</string>
+    <string name="action_sign_in">Masuk atau daftar</string>
+    <string name="action_sign_in_short">Masuk</string>
+    <string name="welcome">"Selamat Datang!"</string>
+    <string name="invalid_username">Nama pengguna tidak valid</string>
+    <string name="invalid_password">Kata sandi harus lebih dari 5 karakter</string>
+    <string name="login_failed">"Login gagal"</string>
+    <string name="login_first">Silakan Login Terlebih Dahulu</string>
+    <string name="email_address">Alamat Email</string>
+    <string name="enter_email">Masukkan email Anda</string>
+    <string name="password">Kata Sandi</string>
+    <string name="remember_me">Ingat saya</string>
+    <string name="forgot_password">Lupa Kata Sandi</string>
+    <string name="login">Masuk</string>
+    <string name="or_login_with">Atau Masuk Dengan</string>
+    <string name="google">Lanjutkan dengan Google</string>
+    <string name="dont_have_account">Belum punya akun?</string>
+    <string name="sign_up">Daftar</string>
+    <string name="create_account">Buat Akun</string>
+    <string name="fill_in">Isi detail Anda untuk mendaftar</string>
+    <string name="full_name">Nama Lengkap</string>
+    <string name="enter_name">Masukkan nama Anda</string>
+    <string name="confirm_password">Konfirmasi Kata Sandi</string>
+    <string name="already_have_account">Sudah punya akun?</string>
+    <string name="reset">Masukkan email Anda untuk mengatur ulang kata sandi</string>
+    <string name="reset_password">Atur Ulang Kata Sandi</string>
+    <string name="remember_password">Ingat kata sandi Anda?</string>
+    <string name="continue_with_google">Lanjutkan Dengan Google</string>
+    <string name="google_logo">Logo Google</string>
+    <string name="title_activity_home">Beranda</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_dashboard">Dasbor</string>
+    <string name="title_notifications">Notifikasi</string>
+    <string name="email_hint">Masukkan Email Anda!</string>
+    <string name="email_error">Format Email Tidak Valid</string>
+    <string name="password_hint">Masukkan kata sandi Anda</string>
+    <string name="password_error">Kata sandi harus minimal 8 karakter</string>
+    <string name="carousel_image">Gambar Carousel</string>
+    <string name="prediction_image">Gambar Prediksi</string>
+    <string name="history_image">Gambar Riwayat</string>
+    <string name="profile_name">Abe</string>
+    <string name="edit_profile">Edit Profil</string>
+    <string name="arrow_down">Panah</string>
+    <string name="edit_setting">Pengaturan</string>
+    <string name="edit_support">Dukungan</string>
+    <string name="about_app">Tentang Aplikasi</string>
+    <string name="log_out">Keluar</string>
+    <string name="version_profile">Versi 0.0.1</string>
+    <string name="information_health">Informasi Kesehatan</string>
+    <string name="history_health">Riwayat Kesehatan</string>
+    <string name="not_yet_history">Belum Ada Riwayat</string>
+    <string name="disease_name">Nama Penyakit</string>
+    <string name="confidence">Keyakinan</string>
+    <string name="description">Deskripsi</string>
+    <string name="open_camera">Buka Kamera</string>
+    <string name="open_gallery">Buka Galeri</string>
+    <string name="predict">Prediksi</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="image_placeholder">image\n</string>
+    <string name="list_diseases">List Diseases\n</string>
+
+    //Cellulitis
+
+    <string name="penyebab_cellulitis">Apa yang Bisa Menyebabkan Selulitis\n
+    \n1. Luka atau robekan pada kulit.
+    \n2. Infeksi setelah operasi.
+    \n3. Kondisi kulit tertentu, seperti eksim atau psoriasis.
+    \n4. Benda asing yang masuk ke kulit.
+    \n5. Infeksi tulang yang berada di bawah kulit.
+    </string>
+
+    <string name="gejala_cellulitis">Gejala yang Harus Diwaspadai\n
+        \n1. Kulit tampak kemerahan, bengkak, dan terasa hangat saat disentuh.
+        \n2. Timbul lepuhan, nanah, atau cairan pada kulit.
+        \n3. Nyeri pada area yang terkena.
+        \n4. Demam disertai menggigil.\n
+        \nJika Anda merasakan gejala-gejala di atas, jangan tunda untuk berkonsultasi dengan dokter. Penanganan dini dapat mencegah komplikasi dan membantu pemulihan lebih cepat!\n
+        \nJaga kulit Anda tetap bersih dan sehat untuk mencegah selulitis!
+
+    </string>
+
+    //Impetigo
+
+    <string name="penyebab_impetigo">Apa yang Dapat Memicu Impetigo?\n
+    \n1. Luka terbuka: Membuka jalan bagi bakteri untuk masuk ke dalam tubuh.
+    \n2. Kelainan kulit: Eksim atopik atau kudis bisa menjadi pemicu.
+    \n3. Kontak dengan penderita: Melalui aktivitas olahraga seperti gulat atau sepak bola.
+    \n4. Lingkungan padat: Tinggal di tempat dengan banyak penduduk dapat meningkatkan risiko.
+    \n5. Kondisi kesehatan tertentu: Diabetes atau daya tahan tubuh yang lemah, seperti pada penderita HIV/AIDS.
+    </string>
+
+    <string name="gejala_impetigo">Gejala Impetigo yang Perlu Diwaspadai\n
+        \nGejala impetigo biasanya muncul 4–10 hari setelah tubuh terpapar bakteri. Setiap jenis impetigo memiliki gejala yang berbeda, namun secara umum gejala yang sering terjadi meliputi:\n
+        \n1. Luka kecil yang berisi cairan atau nanah.
+        \n2. Kerak kuning seperti madu pada kulit.
+        \n3. Area kemerahan atau bengkak di sekitar luka\n.
+        \nJika Anda atau orang terdekat mengalami gejala seperti ini, segera periksakan ke dokter agar mendapatkan pengobatan yang tepat. Yuk, lindungi kulit Anda dan orang-orang di sekitar!
+
+ </string>
+
+    //Athlete Foot / Kutu Air
+
+    <string name="apa_itu_athlete_foot">Athlete Foot\n
+        n1.  Athlete Foot, atau dikenal juga sebagai Tinea Pedis, adalah infeksi jamur yang sering menyerang kulit kaki. Meskipun sering ditemukan pada atlet karena kebiasaan menggunakan fasilitas umum seperti ruang ganti atau kolam renang, siapa saja bisa mengalaminya.</string>
+    <string name="penyebab_athlete_foot">Apa Saja Faktor Risikonya?\n
+        \nAnda lebih rentan terkena kutu air jika:\n
+        \n1. Berjalan di tempat umum tanpa alas kaki, seperti kamar mandi atau kolam renang.
+        \n2. Memiliki kaki yang sering berkeringat.
+        \n3. Ada luka di kulit atau kuku kaki yang menjadi jalan masuk jamur.
+        \n4. Berbagi barang pribadi, seperti sepatu, kaus kaki, atau handuk, dengan orang lain.
+        \n5. Menggunakan sepatu terlalu sempit atau kaus kaki yang basah.
+        \n6. Jarang mengganti kaus kaki.
+    </string>
+
+    <string name="gejala_athlete_foot">Gejala yang Harus Diwaspadai:\n
+        \nInfeksi ini dapat menimbulkan gejala yang bervariasi tergantung tingkat keparahannya, seperti:\n
+        \n1. Rasa gatal yang intens, terutama di sela-sela jari kaki.
+        \n2. Kulit kemerahan, kering, atau terkelupas.
+        \n3. Munculnya lecet, kerak, atau luka kecil di area yang terinfeksi.
+        \n4. Bau tidak sedap akibat infeksi.\n
+        \nJika dibiarkan, infeksi ini dapat menyebar ke kuku atau bagian tubuh lain.\n
+        \nJika Anda merasakan gejala kutu air, segera konsultasikan ke dokter untuk mendapatkan perawatan yang tepat. Dengan penanganan dini, Anda bisa mencegah penyebaran dan komplikasi! 😊
+    </string>
+
+    //Nail Fungus
+
+    <string name="apa_itu_jamur_kuku">Apa Itu Jamur Kuku?\n
+    Jamur kuku, atau dikenal secara medis sebagai onikomikosis, adalah infeksi kuku yang disebabkan oleh jamur, terutama jamur dermatofit. Infeksi ini sering terjadi pada kuku kaki, tetapi kuku tangan juga dapat terkena.</string>
+    <string name="penyebab_jamur_kuku">Faktor Risiko yang Meningkatkan Kerentanan\n
+    \nBeberapa kondisi dan kebiasaan dapat meningkatkan risiko seseorang terkena jamur kuku, antara lain:\n
+    \n1. Usia lanjut: Kuku yang rapuh dan kering pada lansia memudahkan jamur masuk melalui retakan.
+    \n2. Sirkulasi darah yang buruk: Contohnya pada penderita penyakit arteri perifer.
+    \n3. Daya tahan tubuh lemah: Misalnya akibat HIV/AIDS atau diabetes.
+    \n4. Kondisi kulit tertentu: Psoriasis kuku atau kutu air dapat memicu infeksi.
+    \n5. Kebiasaan buruk: Seperti berjalan tanpa alas kaki di tempat lembap (kamar mandi umum atau area kolam renang).
+    \n6. Hobi atau pekerjaan: Yang sering bersentuhan dengan air dapat meningkatkan risiko.
+    \n7. Keringat berlebih: Memberikan lingkungan ideal bagi jamur untuk tumbuh.</string>
+
+    <string name="gejala_jamur_kuku">Gejala Jamur Kuku yang Harus Diwaspadai\n
+    \nInfeksi jamur kuku biasanya menunjukkan gejala berikut:\n
+    \n1. Kuku menebal dan menjadi kasar.
+    \n2. Muncul bintik putih atau perubahan warna kuku menjadi kuning kecoklatan, kehitaman, atau putih.
+    \n3. Kuku rapuh, mudah patah, atau terpisah dari kulit jari.
+    \n4. Bau tidak sedap pada kuku.\n
+        \nJika Anda mendapati gejala jamur kuku, segera periksakan ke dokter. Penanganan lebih awal akan membuat proses penyembuhan lebih efektif dan mencegah komplikasi lebih lanjut. 😊
+    </string>
+
+    //Ringworm / Kurap
+    <string name="apa_itu_kurap">Apa Itu Kurap?\n
+    n1.  Kurap, atau dalam istilah medis disebut tinea corporis, adalah infeksi kulit yang disebabkan oleh jamur. Penyakit ini dikenal juga sebagai ringworm karena bentuknya menyerupai cincin dengan tepi yang tampak lebih menonjol. Kurap dapat muncul di berbagai bagian tubuh, seperti kepala, tangan, kaki, wajah, hingga selangkangan.
+    </string>
+
+    <string name="perbedaan_kudis_kurap">Kurap vs Kudis Apa Bedanya? \n
+    \nMeskipun sering disamakan, kurap dan kudis berbeda penyebabnya:
+    \n2. Kurap disebabkan oleh infeksi jamur seperti Epidermophyton, Microsporum, atau Trichophyton.
+    \n3. Kudis disebabkan oleh tungau kecil yang menggigit dan bersembunyi di bawah kulit.</string>
+
+    <string name="penyebab_kurap">Penyebab dan Cara Penularan Kurap \n
+    \nKurap ditularkan melalui:\n
+    \n1. Kontak langsung dengan penderita kurap, baik manusia maupun hewan.
+    \n2. Kontak tidak langsung, seperti menyentuh barang yang terkontaminasi, misalnya pakaian, handuk, atau permukaan benda.
+    </string>
+
+    <string name="gejala_kurap">Gejala Kurap yang Harus Diperhatikan: \n
+    \n1. Ruam merah berbentuk lingkaran yang bersisik dan terasa sangat gatal.
+    \n2. Lepuhan kecil berisi cairan pada tepi ruam.
+    \n3. Jika terjadi di kuku: kuku menebal, rapuh, dan berubah warna menjadi putih buram.
+    \n4. Ruam dapat meluas jika tidak diobati.</string>
+
+    <string name="tips_pencegahan_kurap">Tips Pencegahan Kurap \n
+    \n1. Hindari berbagi barang pribadi seperti handuk atau pakaian.
+    \n2. Jaga kebersihan kulit dan keringkan area yang rentan berkeringat.
+    \n3. Gunakan alas kaki saat berada di tempat umum yang lembap, seperti kamar mandi atau kolam renang.
+    \n4. Hindari kontak langsung dengan hewan yang terlihat memiliki kurap.\n
+    \n5. Jika Anda mengalami gejala kurap, segera konsultasikan ke dokter untuk mendapatkan pengobatan yang tepat. Dengan perawatan dini, Anda bisa mencegah penyebaran dan mempercepat pemulihan! 🌟</string>
+
+    //cutaneous larva migrans (CLM)
+
+    <string name="Apa_Itu_Cutaneous_Larva_Migrans">Apa Itu Cutaneous Larva Migrans?\n
+    n1.  Cutaneous Larva Migrans (CLM) adalah infeksi kulit yang disebabkan oleh larva cacing tambang. Infeksi ini ditandai dengan ruam berwarna merah yang bergerak seperti ular di bawah permukaan kulit. Larva cacing ini berasal dari kotoran hewan yang terinfeksi, seperti kucing, anjing, domba, atau kuda, yang bertelur di tanah atau pasir.
+    </string>
+
+    <string name="penyebab_CLM">Penyebab dan Faktor Risiko CLM\n
+    \nInfeksi ini dapat terjadi ketika kulit manusia bersentuhan langsung dengan tanah atau pasir yang terkontaminasi larva cacing tambang.
+    \nBeberapa faktor yang meningkatkan risiko terjadinya CLM antara lain:\n
+    \n1. Anak-anak yang sering bermain di tanah atau pasir.
+    \n2. Pekerja di luar ruangan seperti petani, tukang kebun, dan pekerja bangunan.
+    \n3. Pembasmi hama, terutama di area persawahan, yang berisiko tinggi terpapar larva.
+    </string>
+
+    <string name="gejala_CLM">Gejala CLM yang Perlu Diwaspadai\n
+    \nGejala CLM biasanya muncul beberapa hari setelah kontak dengan larva cacing. Gejalanya meliputi:\n
+    \n1.  Gatal yang sangat intens pada area kulit yang terpapar.
+    \n2. Ruam merah berbentuk garis atau lingkaran yang bisa bergerak seiring pergerakan larva di bawah kulit.
+    \n3. Benjolan kecil atau lepuhan yang muncul di area yang terinfeksi.
+    \n4. Sensasi terbakar dan pembengkakan pada kulit yang terinfeksi.
+    \n5. Sensasi seolah ada sesuatu yang bergerak di bawah permukaan kulit.\n
+    \nJika Anda mengalami gejala CLM, segera konsultasikan ke dokter untuk mendapatkan pengobatan yang tepat. Pencegahan dan penanganan dini sangat penting untuk mencegah infeksi semakin parah! 😊
+    </string>
+
+    //ChickenPox/Cacar Air
+
+    <string name="apa_itu_cacar_air">Apa Itu Cacar Air?\n
+    n1.  Cacar air, atau dalam bahasa medis dikenal sebagai Varicella, adalah penyakit kulit yang disebabkan oleh infeksi virus Varicella zoster (VZV). Penyakit ini ditandai dengan munculnya lepuhan berisi cairan di seluruh tubuh, yang biasanya menyebabkan rasa gatal yang sangat mengganggu. Meskipun sering terjadi pada anak-anak, orang dewasa yang belum pernah mengalaminya juga bisa terkena cacar air, terutama jika daya tahan tubuhnya lemah.
+    </string>
+
+    <string name="penyebab_cacar_air">Penyebab Cacar Air\n
+    \nPenyebab utama cacar air adalah virus Varicella zoster (VZV). Virus ini dapat menyebar dengan cara:\n
+    \n1. Kontak langsung dengan lepuhan atau lenting yang berisi cairan dari penderita.
+    \n2. Terhirup droplet yang terkontaminasi virus dari batuk atau bersin penderita.
+    </string>
+
+    <string name="Gejala_Cacar_Air">Gejala Cacar Air\n
+    \nGejala awal cacar air biasanya muncul 1–2 hari sebelum ruam gatal terlihat, dan dapat mencakup:\n
+    \n1. Pusing atau sakit kepala.
+    \n2. Demam.
+    \n3. Kehilangan nafsu makan.
+    \n4. Nyeri otot.
+    \n5. Mual dan kelelahan berlebihan.\n
+    \nSetelah gejala awal, ruam gatal akan muncul dan berkembang dalam tiga fase:\n
+    \n1. Benjolan merah muda muncul di seluruh tubuh.
+    \n2. Lenting berisi cairan terbentuk pada benjolan merah tersebut.
+    \n3. Lenting pecah dan mengering, kemudian membentuk kerak saat tubuh mulai sembuh.\n
+    \nNamun, fase perkembangan ini bisa bervariasi pada setiap orang tergantung pada kekebalan tubuh mereka.\n
+    \nJika Anda atau orang terdekat menunjukkan gejala cacar air, segera konsultasikan ke dokter untuk mendapatkan penanganan yang tepat. Dengan penanganan yang baik, gejala cacar air dapat dikelola dengan lebih mudah! 😊
+    </string>
+
+    //Shingles / Herpes Zoster
+
+    <string name="apa_itu_herpes_zoster">Shingles / Herpes Zoster\n
+    n1. Herpes Zoster, yang lebih dikenal dengan nama Cacar Api, adalah penyakit kulit yang menyebabkan munculnya ruam dan lepuhan berisi cairan di satu sisi tubuh, disertai rasa nyeri. Walaupun bisa dialami siapa saja, kondisi ini lebih sering terjadi pada orang yang berusia di atas 50 tahun atau mereka yang memiliki sistem kekebalan tubuh yang lebih lemah.
+    </string>
+
+    <string name="penyebab_herpes_zoster">Penyebab Herpes Zoster\n
+    \nHerpes Zoster disebabkan oleh virus Varicella Zoster (VZV), yang juga menyebabkan cacar air. Jika seseorang pernah menderita cacar air, virus ini tetap tinggal di tubuh, terutama di sekitar tulang belakang atau dasar tengkorak. Ketika tubuh menjadi lebih lelah atau sistem kekebalan tubuh menurun, virus ini bisa "bangun" kembali dan menyebabkan herpes zoster.\n
+    \nBeberapa hal yang bisa meningkatkan risiko terkena herpes zoster antara lain:\n
+    \n1. Sistem imun yang lemah, misalnya pada orang dengan HIV/AIDS atau yang sedang menjalani pengobatan imunosupresan.
+    \n2. Usia lebih dari 50 tahun, karena sistem kekebalan tubuh cenderung melemah seiring bertambahnya usia.
+    \n3. Stres, yang bisa menurunkan kekuatan tubuh dalam melawan infeksi.
+    </string>
+
+    <string name="gejala_herpes_zoster">Gejala Herpes Zoster\n
+    \nGejala herpes zoster biasanya dimulai dengan rasa nyeri atau sensasi terbakar di satu sisi tubuh. Setelah itu, ruam dan lepuhan berisi cairan akan muncul. Gejala lainnya termasuk:\n
+    \n1. Ruam merah yang berkembang menjadi lepuhan atau bintil berisi cairan.
+    \n2. Pembengkakan di area kulit yang terinfeksi.
+    \n3. Sensasi terbakar, nyeri, atau gatal di kulit.
+    \n4. Demam dan merasa mudah lelah.
+    \n5. Nyeri kepala jika lepuhan muncul di area kepala atau wajah.
+    \n6. Sensitif terhadap cahaya, terutama jika lepuhan muncul dekat mata.\n
+    \nJika kamu merasa mulai merasakan gejala-gejala herpes zoster, segera konsultasikan dengan dokter agar bisa mendapatkan penanganan yang tepat. Jangan khawatir, pengobatan yang tepat bisa meringankan gejalanya dan mencegah komplikasi! 😊
+    </string>
+    <string name="list_of_diseases_circle">list_of_diseases_circle\n</string>
+    <string name="list_virus">list_virus</string>
+
+
+
+    //LIST VIRUS
+
+
+    //1.BA - BAKTERI
+
+    <string name="penjelasan_BA_Bakteri">Infeksi Kulit Bakteri: Apa Itu dan Contohnya\n
+    \nInfeksi kulit bakteri terjadi ketika bakteri berhasil masuk ke dalam kulit. Hal ini bisa disebabkan oleh faktor luar, seperti lingkungan, atau karena bakteri yang memang sudah ada di kulit. Biasanya, bakteri masuk melalui folikel rambut atau setelah ada luka di kulit.\n
+    \nBakteri seperti Staphylococcus dan Streptococcus biasanya hidup di kulit kita tanpa menimbulkan masalah. Tapi, mereka bisa menyebabkan infeksi jika mendapatkan "kesempatan," seperti saat kulit terluka atau sistem kekebalan tubuh melemah.\n
+    \nAda juga bakteri dari luar, seperti Bacillus anthracis yang menyebabkan antraks, atau bakteri dari kutu penyebab penyakit Lyme yang memunculkan gejala pada kulit.\n
+    </string>
+
+    <string name="jenis_infeksi_BA_Bakteri">Jenis Infeksi: Lokal atau Sistemik\n
+    \nInfeksi bakteri kulit dibedakan menjadi dua jenis:\n
+    \n1. Lokal: Infeksi hanya menyerang area tertentu di kulit, misalnya di satu bagian tubuh.\n
+    \n2. Sistemik: Infeksi yang menyebar ke seluruh tubuh, biasanya disertai gejala seperti demam atau lemas. Infeksi ini sering kali dimulai di area kecil, lalu menyebar lebih luas.\n
+
+    \nJenis-Jenis Infeksi Bakteri Kulit\n
+    \n1. Selulitis:\n
+    Infeksi di lapisan kulit yang lebih dalam, biasanya membuat kulit jadi merah, bengkak, dan terasa hangat saat disentuh.\n
+
+    \n2. Impetigo:\n
+    Infeksi yang sering menyerang anak-anak. Tandanya adalah luka kecil yang berisi cairan atau nanah, kemudian membentuk kerak kuning. Infeksi ini sangat mudah menular.\n
+
+    \n3. Penyakit Hansen (Kusta):\n
+    Infeksi kronis yang memengaruhi kulit, saraf, dan organ tubuh lainnya. Penyakit ini berkembang secara perlahan dan dapat menyebabkan kerusakan permanen jika tidak segera ditangani.\n
+
+    \n4. Sipilis:\n
+    Infeksi bakteri yang biasanya ditularkan melalui hubungan seksual. Gejalanya bisa berupa luka pada kulit atau bagian tubuh lainnya.\n
+
+    \nCatatan Penting\n
+    \nMenjaga kebersihan kulit dan segera menangani luka kecil bisa membantu mencegah infeksi bakteri. Dengan mengenali gejala dan cara penyebarannya, kamu bisa melindungi diri sendiri dan orang-orang di sekitarmu. 🌟\n
+
+    \nBagaimana Infeksi Bisa Menular?\n
+    \nBeberapa infeksi bakteri, seperti impetigo, bisa menular dari orang ke orang melalui:\n
+    \n1. Kontak langsung dengan kulit atau luka yang terinfeksi.\n
+    \n2. Cairan tubuh seperti air liur atau darah.\n
+    \n3. Makanan atau air yang sudah terkontaminasi.\n
+    \n4. Permukaan benda yang terpapar bakteri, seperti handuk atau pakaian.\n
+    \nNamun, tidak semua infeksi bakteri kulit bisa menular. Contohnya adalah selulitis, yang biasanya tidak menyebar dari satu orang ke orang lain.
+    </string>
+
+
+    //2.FU-FUNGUS
+
+    <string name="penjelasan_FU_FUNGUS">Infeksi Kulit Jamur: Penjelasan dan Jenis-Jenisnya\n
+    \nInfeksi kulit yang disebabkan oleh jamur biasanya berkembang di area tubuh yang lembap dan kurang mendapatkan sirkulasi udara. Contohnya adalah bagian kaki, ketiak, atau lipatan kulit seperti di bawah payudara atau selangkangan. Jamur menyukai kondisi lembap dan hangat, sehingga tempat-tempat tersebut menjadi lokasi favorit mereka untuk tumbuh.\n
+    \nKadang-kadang, infeksi jamur bisa memicu reaksi alergi yang menyebabkan gejala di area tubuh lain yang tidak langsung terinfeksi. Misalnya, seseorang yang memiliki infeksi jamur di kaki (Athlete Foot) mungkin mengalami ruam atau gatal-gatal pada jari tangan, meskipun tidak ada kontak langsung antara kaki dan tangan.\n
+    </string>
+
+    <string name="jenis_infeksi_FU_FUNGUS">Jenis-Jenis Infeksi Kulit Jamur\n
+    \nBerikut ini beberapa jenis infeksi jamur kulit yang umum terjadi:\n
+    \n1. Kutu Air (Athlete Foot)\n
+        \n-Biasanya menyerang area di antara jari-jari kaki.\n
+        \n-Gejalanya meliputi kulit yang pecah-pecah, bersisik, gatal, dan terasa perih.\n
+        \n-Infeksi ini sering dialami oleh orang yang sering memakai sepatu tertutup dalam waktu lama, terutama jika kaki mudah berkeringat.\n
+    \n2. Kurap (Ringworm)\n
+        \n-Ditandai dengan ruam melingkar yang merah di tepi tetapi lebih cerah di tengah, sehingga menyerupai cincin.\n
+        \n-Kurap dapat muncul di bagian tubuh mana saja, termasuk kulit kepala, tangan, atau tubuh bagian lain.\n
+        \n-Infeksi ini sangat menular dan bisa menyebar melalui kontak langsung atau penggunaan benda yang terkontaminasi, seperti handuk atau sisir.\n
+    \n3. Jamur Kuku (Nail Fungus)\n
+        \n-Biasanya menyerang kuku kaki, tetapi bisa juga terjadi pada kuku tangan.\n
+        \n-Tanda-tandanya adalah kuku yang berubah warna menjadi kuning atau putih, menebal, rapuh, dan mudah patah.\n
+        \n-Infeksi ini sering terjadi pada orang yang sering terkena air atau memiliki kebiasaan menggunakan sepatu basah.\n
+
+    \nCatatan Penting\n
+        Jamur adalah mikroorganisme yang ada di sekitar kita, tetapi infeksi bisa terjadi jika kondisi kulit kita memungkinkan jamur berkembang biak. Menjaga kebersihan tubuh, menghindari lingkungan yang terlalu lembap, dan segera menangani gejala awal adalah cara terbaik untuk mencegah dan mengatasi infeksi kulit jamur. 😊\n
+</string>
+
+    //3.PA_PARASIT
+
+    <string name="penjelasan_PA_PARASIT">PA - PARASIT\n
+    \nInfeksi Kulit Parasit\n
+    \nInfeksi kulit parasit terjadi ketika organisme kecil seperti tungau atau larva tinggal di kulit kita. Meskipun tidak berbahaya, infeksi ini bisa bikin gatal, tidak nyaman, dan cukup mengganggu. Yuk, kenalan dengan dua jenis infeksi kulit parasit yang paling sering terjadi:\n
+
+     \n1. Kudis (Scabies)\n
+        \nKudis disebabkan oleh tungau kecil bernama Sarcoptes scabiei. Tungau ini suka membuat "rumah" kecil di bawah kulit, yang bikin kulit kita jadi super gatal, terutama saat malam hari.\n
+        \nTanda-tanda yang biasanya muncul:\n
+
+        \n-Gatal parah, apalagi di area seperti sela-sela jari, pergelangan tangan, ketiak, atau pinggang.\n
+
+        \n-Ada bintik-bintik kecil atau garis seperti terowongan di kulit.\n
+
+        \nCara mengatasinya? Dokter biasanya akan memberikan krim atau lotion khusus untuk menghilangkan tungau dan telurnya. Gampang, kan?\n
+     \n2. Cutaneous Larva Migrans (Larva Cacing Kulit)\n
+        \nInfeksi ini disebabkan oleh larva cacing tambang yang "nyasar" masuk ke kulit kita. Biasanya terjadi kalau kita berjalan tanpa alas kaki di tanah atau pasir yang kotor.\n
+
+        \nTanda-tanda khasnya:\n
+
+        \n-Ada garis merah berliku di kulit, mirip jejak ulat berjalan.\n
+
+        \n-Gatal banget di sekitar area itu.\n
+
+        \nWalaupun biasanya sembuh sendiri, dokter bisa memberikan obat untuk mempercepat penyembuhan dan bikin rasa gatalnya hilang.\n
+
+    </string>
+
+    <string name="jenis_infeksi_PA_PARASIT">Jenis-Jenis Parasit :\n
+     \n1. Protozoa\n
+    \n- Menyebar kepada Anda baik melalui kontak langsung dengan kulit atau melalui nyamuk , hewan peliharaan, atau kutu. Begitu mereka bersentuhan dengan Anda, protozoa memasuki aliran darah dan menyebar ke paru-paru, usus, jantung, dan pankreas .\n
+     \n2. Cacing gelang\n
+        \n- Parasit ini biasanya menyerang usus, aliran darah, atau jaringan di bawah kulit.\n
+        \n- Cacing gelang hanya dapat berkembang biak di dalam tubuh pada tahap muda.\n
+     \n3. Ektoparasit\n
+    \n- Parasit ini dapat bertahan di kulit Anda selama berminggu-minggu atau bahkan berbulan-bulan.\n
+
+    \nNah, supaya kita terhindar dari infeksi ini, selalu jaga kebersihan, pakai alas kaki saat di luar, dan hindari kontak dengan lingkungan yang kotor atau terinfeksi. Kalau merasa ada gejala seperti di atas, segera periksakan ke dokter, ya! Biar cepat sembuh dan nyaman lagi. 😊\n
+
+    </string>
+
+    //4.VI-VIRUS
+
+    <string name="penjelasan_VI_VIRUS">Infeksi Kulit Virus\n
+    \nInfeksi kulit yang disebabkan oleh virus bisa bikin kulit gatal, beruntusan, dan nggak nyaman. Virus masuk ke tubuh kita dan berkembang biak di dalam sel tubuh, termasuk sel kulit. Beberapa virus ini mudah menular, dan kadang nggak cuma di kulit, bisa juga memengaruhi tubuh kita yang lain. Virus bisa masuk lewat udara, kontak langsung dengan orang yang terinfeksi, atau benda yang terkontaminasi. Setelah virus masuk ke tubuh, ia akan menempel pada sel dan mulai berkembang biak, menyebabkan gejala seperti ruam, lepuhan, atau rasa sakit. Yuk, kita bahas dua infeksi virus yang sering terjadi!\n
+     \n1. Shingles/ Herpes Zoster (Cacar Api)\n
+     \nCacar api disebabkan oleh virus yang sama dengan yang menyebabkan cacar air. Setelah sembuh dari cacar air, virus ini bisa "tidur" di tubuh dan bisa bangkit lagi jadi cacar api.\n
+     \nTanda-tandanya:\n
+        \n-Muncul ruam yang diawali dengan bintik merah, lalu berubah jadi lepuhan kecil yang berisi cairan.\n
+        \n-Ada rasa nyeri atau terbakar di area yang kena ruam, kadang sebelum ruamnya muncul.\n
+        \n-Biasanya hanya muncul di satu sisi tubuh, misalnya di dada atau punggung.\n
+
+        \nDokter biasanya memberi obat untuk mengurangi gejala dan mempercepat penyembuhan.\n
+
+     \n2. Cacar Air (Chickenpox)\n
+        \nCacar air juga disebabkan oleh virus yang sama dengan cacar api, tapi lebih sering menyerang anak-anak. Virus ini sangat gampang menular, bisa lewat udara atau langsung kontak dengan ruam.\n
+
+        \nTanda-tandanya:\n
+
+        \n-Muncul ruam yang dimulai dengan bintik merah, terus jadi lepuhan berisi cairan.\n
+        \n-Gatal banget di seluruh tubuh.\n
+        \n-Badan terasa demam, sakit kepala, dan lemas.\n
+
+        \nCacar air biasanya sembuh dengan sendirinya, tapi obat bisa membantu untuk meredakan gatal dan demam.\n
+        \nKedua infeksi ini gampang menular, jadi pastikan untuk menjaga kebersihan dan segera ke dokter kalau merasakan gejala seperti ini. Jangan lupa juga untuk vaksinasi, terutama untuk cacar air, supaya lebih aman!\n
+
+    </string>
+
+    <string name="jenis_infeksi_VI_VIRUS">Jenis-Jenis Parasit Virus:\n
+    \n1. Virus DNA\n
+    \n- DNA pada virus akan mengalami replikasi menjadi beberapa DNA dan juga akan mengalami transkripsi menjadi mRNA.\n
+    \n- mRNA juga akan membentuk enzim penghancur (Lisozim) sehingga sel inang lisis (hancur) dan virus–virus keluar untuk menginfeksi sel inang lainnya.\n
+    \n2. Virus RNA\n
+    \n- Di dalam sel inangnya, RNA pada virus akan mengalami transkripsi balik menjadi Hibrid RNA-DNA dan akhirnya membentuk DNA.\n
+    \n- DNA virus akan merusak DNA inangnya dan membentuk mRNA. mRNA akan mengalami translasi untuk menghasilkan protein selubung virus untuk menbentuk virus–virus baru.\n
+    </string>
+    <string name="menu">menu</string>
+    <string name="reason_icon">reason\n</string>
+    <string name="disease_icon">disease</string>
+</resources>
